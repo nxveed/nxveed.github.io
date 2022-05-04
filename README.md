@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @nxveed
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Html,Css and Java
-- 💞 I’m looking to collaborate on -
-- 📫 How to reach me Nxveed#8150
